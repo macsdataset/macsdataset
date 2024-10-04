@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://macsdataset.github.io/</loc>
+         <loc>https://macsdataset.github.io/macsdataset/</loc>
          <lastmod>2024-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://macsdataset.github.io/dor/</loc>
+         <loc>https://macsdataset.github.io/macsdataset/dor/</loc>
          <lastmod>2024-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://macsdataset.github.io/mos/</loc>
+         <loc>https://macsdataset.github.io/macsdataset/mos/</loc>
          <lastmod>2024-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://macsdataset.github.io/sequence/</loc>
+         <loc>https://macsdataset.github.io/macsdataset/sequence/</loc>
          <lastmod>2024-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://macsdataset.github.io/slam/</loc>
+         <loc>https://macsdataset.github.io/macsdataset/slam/</loc>
          <lastmod>2024-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://macsdataset.github.io/system/</loc>
+         <loc>https://macsdataset.github.io/macsdataset/system/</loc>
          <lastmod>2024-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://macsdataset.github.io/tool/</loc>
+         <loc>https://macsdataset.github.io/macsdataset/tool/</loc>
          <lastmod>2024-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
